@@ -24,7 +24,7 @@ public class CreatingObjectOfWrapperClass {
     }
 
     static void integerChecking(){
-        Integer i1 = new Integer(200); // Exceeds the limit of : -127 to 128
+        Integer i1 = new Integer(200); // Exceeds the limit of : -127 to 128har
         Integer i2 = new Integer(200);
         Integer i3 = Integer.valueOf(200);
         Integer i4 = Integer.valueOf(200);
