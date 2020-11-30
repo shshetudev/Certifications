@@ -4,7 +4,7 @@ public class Person {
     public static void main(String[] args) {
         final StringBuilder name = new StringBuilder("Shetu");
         name.append(" Shahariar");
-        System.out.println(name);
+        System.out.println();
         // But it will not compile
 //        name = new StringBuilder();
 
