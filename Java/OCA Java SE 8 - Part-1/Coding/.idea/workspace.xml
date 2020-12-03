@@ -22,10 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b5a2396-adfc-4a76-8ef7-80fcec83f650" name="Default Changelist" comment="adding">
-      <change beforePath="$PROJECT_DIR$/../Books/Reading_OCA Java SE 8 Programmer I Certification Guide.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Books/Reading_OCA Java SE 8 Programmer I Certification Guide.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5b5a2396-adfc-4a76-8ef7-80fcec83f650" name="Default Changelist" comment="adding" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,13 +37,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-      </MavenGeneralSettings>
-    </option>
   </component>
   <component name="ProjectId" id="1kudo4OASj7fRJDhN2ETsM9gnuM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -133,19 +123,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Employee (1)" />
@@ -174,6 +151,7 @@
       <workItem from="1606741191307" duration="47000" />
       <workItem from="1606741259705" duration="989000" />
       <workItem from="1606794139440" duration="2559000" />
+      <workItem from="1606921865992" duration="18000" />
     </task>
     <task id="LOCAL-00001" summary="adding">
       <created>1606741334534</created>
